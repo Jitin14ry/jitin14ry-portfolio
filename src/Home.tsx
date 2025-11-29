@@ -243,7 +243,7 @@ const MainFunc = () => {
     {
       name: "LinkedIn",
       icon: <Linkedin style={{ width: "24px", height: "24px" }} />,
-      url: " LinkedIn/jitin-choudhary-a788b1231",
+      url: "https://www.linkedin.com/in/jitin-choudhary-a788b1231",
     },
     {
       name: "Instagram",
